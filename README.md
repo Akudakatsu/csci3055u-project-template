@@ -125,3 +125,5 @@
 
 ## Strengths and Weaknesses
 > All the programming aspects of F# are its strengths. It supports multiple paradigms, allowing for ideal combinations of all aspects of programming to create powerful and complex applications.
+>
+> I dislike the process of compiling F# outside of Visual Studio, it is a nightmare compared to other languages I have used: Clojure, Python, Java, C#, C++.
